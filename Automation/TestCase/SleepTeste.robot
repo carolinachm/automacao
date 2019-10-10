@@ -17,7 +17,7 @@ RegTest
     select radio button   Gender   M
     input text  name:FirstName  Carol
     input text  name:LastName   Mesquita
-    input text  name:Email      carolti2013@gmail.com
+    input text  name:Email      arolti2013@gmail.com
     input text  name:Password   123456
     input text  name:ConfirmPassword   123456
     ${spead}=  get selenium speed
